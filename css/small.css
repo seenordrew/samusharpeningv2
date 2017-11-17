@@ -88,9 +88,9 @@ h3, h4 {
 
 .grid-2-columns {
 	display: grid;
-	grid-template-columns: 1fr 1fr;
-	grid-template-rows: auto;
-	grid-gap: 15px;
+	//grid-template-columns: 1fr 1fr;
+	//grid-template-rows: auto;
+	grid-row-gap: 4vw;
 }
 
 .wrapper {
